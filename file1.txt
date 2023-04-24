@@ -1,1 +1,7 @@
 this is line1 in file 1
+
+this is line2 in file 1
+
+this is line3 in file 1
+
+this is line4 in file 1
